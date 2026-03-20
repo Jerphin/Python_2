@@ -1,0 +1,55 @@
+{
+  "low": {
+    "title": "✅ Low Risk - Maintenance Diet",
+    "recommendations": [
+      "🥗 Oatmeal with berries and nuts for breakfast",
+      "🥗 Grilled chicken salad for lunch",
+      "🥗 Baked fish with vegetables for dinner",
+      "🌾 Choose whole grains over refined carbs",
+      "🐟 Include lean protein in every meal",
+      "🥑 Add healthy fats (avocado, nuts, olive oil)",
+      "💧 Drink 8-10 glasses of water daily",
+      "🚶 30 minutes of walking daily"
+    ]
+  },
+  "normal": {
+    "title": "⚠️ Prediabetes - Preventive Diet",
+    "recommendations": [
+      "🥗 Vegetable omelet with whole grain toast",
+      "🥗 Quinoa bowl with chickpeas and vegetables",
+      "🥗 Lean protein with non-starchy vegetables",
+      "🚫 Strictly limit sugary foods and drinks",
+      "🏃 Exercise 30-45 minutes daily",
+      "💧 Drink 8-10 glasses of water",
+      "🍎 Choose low-glycemic fruits (berries, apples)",
+      "🚶 Walk 10-15 minutes after meals"
+    ]
+  },
+  "high": {
+    "title": "🚨 Diabetes - Strict Diet",
+    "recommendations": [
+      "🥗 Spinach and mushroom scramble",
+      "🥗 Large salad with grilled chicken",
+      "🥗 Baked salmon with roasted vegetables",
+      "🚫 ABSOLUTELY NO sugary drinks or juices",
+      "🚫 No white rice, bread, pasta, or potatoes",
+      "🥗 Every meal must have non-starchy vegetables",
+      "🍗 Include lean protein with EVERY meal",
+      "🏃 Exercise 45-60 minutes daily",
+      "📊 Monitor glucose 4 times daily"
+    ]
+  },
+  "critical": {
+    "title": "💀 CRITICAL - Emergency Diet",
+    "recommendations": [
+      "⚠️ IMMEDIATE MEDICAL ATTENTION REQUIRED",
+      "💊 Take ALL medications as prescribed",
+      "🍽️ Eat VERY small meals every 2-3 hours",
+      "🥬 ONLY low-GI vegetables (broccoli, spinach)",
+      "🚫 NO carbohydrates, sugars, or fruits",
+      "🏥 Monitor glucose EVERY 2 hours",
+      "💧 Drink 12+ glasses of water daily",
+      "🚑 Keep emergency contact ready"
+    ]
+  }
+}
